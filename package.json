@@ -1,0 +1,27 @@
+{
+  "name": "ter---project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "gulp-jsdoc3": "^3.0.0",
+    "nodemon": "^2.0.19",
+    "ol-ext": "^3.2.26",
+    "pg": "^8.7.3",
+    "pinia": "^2.0.14",
+    "router": "^1.3.7",
+    "vue": "^3.2.36",
+    "vue3-apexcharts": "^1.4.1",
+    "vue3-openlayers": "^0.1.68"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}

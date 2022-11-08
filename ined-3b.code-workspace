@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "sqltools.connections": [
+            {
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 5432,
+                "askForPassword": true,
+                "driver": "PostgreSQL",
+                "username": "postgres",
+                "database": "TER_db_3B",
+                "name": "TER"
+            }
+        ]
+    }
+}
