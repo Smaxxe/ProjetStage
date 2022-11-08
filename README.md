@@ -1,3 +1,3 @@
 # INED - 3B
 
-Projet de développement autour de l'enquête 3B réalisée par l'INED en 1981
+Projet de développement d'une interface de visualisation de données spatiales et temporelles avec VueJS, NodeJS et PostGreSQL, en groupe lors d'un stage.
