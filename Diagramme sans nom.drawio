@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net" modified="2023-04-27T10:09:57.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="gaec1hCTo-RXXVbk3PrG" version="21.2.3" type="github">
+  <diagram name="Page-1" id="kGJvYxELI7YH6uDxe6yv">
+    <mxGraphModel dx="1434" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-1" target="Uiy3gwFEY2_x3mbpT4VC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="100.03" />
+              <mxPoint x="310" y="100.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-11" value="&lt;div&gt;Clé d&#39;API&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-7">
+          <mxGeometry x="0.2678" y="1" relative="1" as="geometry">
+            <mxPoint x="-24" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90.03" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-2" target="Uiy3gwFEY2_x3mbpT4VC-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="140.03" />
+              <mxPoint x="300" y="140.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-12" value="Résultats " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-8">
+          <mxGeometry x="0.2303" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-2" target="Uiy3gwFEY2_x3mbpT4VC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="100.03" />
+              <mxPoint x="610" y="100.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-13" value="Demande validité SaasLicense" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-9">
+          <mxGeometry x="0.2374" y="1" relative="1" as="geometry">
+            <mxPoint x="-18" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-2" target="Uiy3gwFEY2_x3mbpT4VC-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="190" />
+              <mxPoint x="460" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-21" value="Demande traitement + données" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-19">
+          <mxGeometry x="-0.2009" y="1" relative="1" as="geometry">
+            <mxPoint x="59" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-2" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90.03" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-3" target="Uiy3gwFEY2_x3mbpT4VC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="140.03" />
+              <mxPoint x="570" y="140.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-17" value="SaasLicense valide" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-10">
+          <mxGeometry x="0.1474" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-3" value="Service de gestion des Licences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90.03" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-2" target="Uiy3gwFEY2_x3mbpT4VC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="70" />
+              <mxPoint x="460" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-16" value="Validation clé API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-15">
+          <mxGeometry x="0.2634" y="1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-18" target="Uiy3gwFEY2_x3mbpT4VC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="220" />
+              <mxPoint x="400" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-22" value="Résultats" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-20">
+          <mxGeometry x="0.1549" y="-3" relative="1" as="geometry">
+            <mxPoint x="-23" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-18" value="API de traitement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-23" value="Fonctionnement SaasLicence" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="770" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-24" target="Uiy3gwFEY2_x3mbpT4VC-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="429" />
+              <mxPoint x="455" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-28" value="Demande d&#39;activation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-26">
+          <mxGeometry x="-0.1302" y="1" relative="1" as="geometry">
+            <mxPoint x="61" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-24" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-25" target="Uiy3gwFEY2_x3mbpT4VC-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="469" />
+              <mxPoint x="445" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-29" value="Token de validité d&#39;activation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-27">
+          <mxGeometry x="-0.1927" y="-1" relative="1" as="geometry">
+            <mxPoint x="-91" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-25" value="Service de gestion des Licences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-32" target="Uiy3gwFEY2_x3mbpT4VC-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="529" />
+              <mxPoint x="455" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-31" value="Vérification de validité" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-30">
+          <mxGeometry x="-0.1302" y="1" relative="1" as="geometry">
+            <mxPoint x="61" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-32" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uiy3gwFEY2_x3mbpT4VC-35" target="Uiy3gwFEY2_x3mbpT4VC-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="569" />
+              <mxPoint x="445" y="569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-34" value="Token de validité" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uiy3gwFEY2_x3mbpT4VC-33">
+          <mxGeometry x="-0.1927" y="-1" relative="1" as="geometry">
+            <mxPoint x="-91" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-35" value="Service de gestion des Licences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uiy3gwFEY2_x3mbpT4VC-36" value="Fonctionnement SingleLicense" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="770" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
